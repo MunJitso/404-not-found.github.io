@@ -1,0 +1,47 @@
+* {
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+h1 {
+    font-size: 3.5rem;
+    padding: 5px 10px;
+}
+
+.paea {
+    font-size: 1.3rem;
+    padding: 5px 10px;
+}
+
+.container {
+    padding: 5px 0 0 0;
+    min-height: 92.5vh;
+}
+
+.navbar-brand {
+    padding: 10px 20px;
+    font-weight: bold;
+}
+
+.column {
+    padding: 23px;
+}
+
+.img-fluid {
+    transform: scale(0.75)
+}
+
+.footer {
+    height: 50px;
+    font-size: 10px;
+    padding: 10px;
+}
+
+.back {
+    margin: 5px 10px;
+    font-size: 1rem;
+}
+
+.footer a {
+    color: black;
+    text-decoration: none;
+}
